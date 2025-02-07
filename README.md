@@ -33,6 +33,8 @@ Installing
 <li>
 <p><strong>Log in to Azure Portal</strong>: <a href="https://portal.azure.com/" target="_new" rel="noopener">Azure Portal</a></p>
 </li>
+  ![image](https://github.com/user-attachments/assets/eacd0c73-e41f-4bab-bffc-145c2c17142d)
+
 <li>
 <p><strong>Create a Virtual Machine</strong>:</p>
 <ul>
@@ -44,6 +46,8 @@ Installing
 <li>Allow <strong>RDP (3389) and HTTP (80) ports</strong> in networking settings.</li>
 <li>Click <strong>Create</strong> and wait for the deployment to finish.</li>
 </ul>
+  ![image](https://github.com/user-attachments/assets/925f1331-1536-4097-86b9-faba2bc9d691)
+
 </li>
 <li>
 <p><strong>Connect to the VM</strong>:</p>
